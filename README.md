@@ -15,3 +15,4 @@
 * <https://rubygems.org/gems/jwt>
 * <https://github.com/nsarno/knock>
 * [JSON Web Token 入门教程 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
+* [用户认证：基于jwt和session的区别和优缺点 - yuanrw - 博客园](https://www.cnblogs.com/yuanrw/p/10089796.html)
